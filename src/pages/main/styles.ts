@@ -5,6 +5,8 @@ export const HomeContainer = styled.main`
   flex-direction: column;
   width: 100%;
   padding: 42px 120px;
+
+  background-color: whitesmoke;
 `;
 
 export const ProductList = styled.div`

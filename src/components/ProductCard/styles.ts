@@ -5,7 +5,6 @@ export const Container = styled.div`
   border-radius: 6px;
   width: 250px;
   height: 100%;
-  padding-top: 24px;
 
   img {
     width: 100%;
