@@ -6,6 +6,10 @@ export const Container = styled.div`
   align-items: center;
   justify-content: space-between;
   margin-bottom: 24px;
+
+  a {
+    text-decoration: none;
+  }
 `;
 
 export const CartInfo = styled.div`
